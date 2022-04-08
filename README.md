@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Suhailnaseem28
 - 👀 I’m interested in developing web application
-- 🌱 I’m currently learning React & React Native
+- 🌱 currently working as an Angular Developer
 - 📫 📩 suhailnaseem28@gmail.com
 
 <!---
